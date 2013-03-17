@@ -1,0 +1,2 @@
+== Basic Info
+This project allows to convert assertions between JUnit, TestNG, FEST Fluent Assertions and Hamcrest.
